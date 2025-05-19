@@ -94,7 +94,7 @@ Each CSV contains:
 
 ## 👨‍💻 Author
 
-**Yağmur Sina**  
+**Onur Çetin **  
 Computer Engineering Student  
 This project was developed as part of the course **CSE 474 / CSE 5074 – Social Network Analysis**.
 
